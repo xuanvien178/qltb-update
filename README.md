@@ -110,7 +110,7 @@ Không tải phần mềm từ các nguồn không chính thức.
 
 ## 📥 Cài đặt
 
-Tải phiên bản mới nhất tại:https://github.com/xuanvien178/qltb-update
+Tải phiên bản mới nhất tại:[https://github.com/xuanvien178/qltb-update](https://github.com/xuanvien178/qltb-update/releases/download/v3.3.9/QLTB_PRO_v3.3.9.exe)
 
 **GitHub Releases**
 
