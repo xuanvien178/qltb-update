@@ -119,7 +119,7 @@ Nếu QLTB PRO hữu ích với bạn, bạn có thể **ủng hộ tác giả m
 
 ### ☕ Ủng hộ tác giả 1 ly cafe nhé!
 
-<img src="./STKTPBANK.jpg" alt="QR ủng hộ tác giả" width="420">
+<img src="./STKTPBANK.jpg" alt="QR ủng hộ tác giả" width="100">
 
 **LE XUAN VIEN**
 
