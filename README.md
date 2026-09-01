@@ -115,11 +115,11 @@ Tải phiên bản mới nhất tại:[https://github.com/xuanvien178/qltb-updat
 
 Nếu QLTB PRO hữu ích với bạn, bạn có thể **ủng hộ tác giả một ly cafe** để tiếp thêm động lực phát triển và cải thiện phần mềm.
 
-<div align="center">
+<div align="left">
 
 ### ☕ Ủng hộ tác giả 1 ly cafe nhé!
 
-<img src="./STKTPBANK.jpg" alt="QR ủng hộ tác giả" width="100">
+<img src="./STKTPBANK.jpg" alt="QR ủng hộ tác giả" width="300">
 
 **LE XUAN VIEN**
 
