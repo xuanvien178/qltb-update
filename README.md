@@ -120,3 +120,25 @@ Ví dụ trên Windows PowerShell:
 
 ```powershell
 Get-FileHash .\QLTB_PRO_v3.3.10.exe -Algorithm SHA256
+
+---
+
+## ☕ Ủng hộ tác giả
+
+Nếu QLTB PRO hữu ích với bạn, bạn có thể **ủng hộ tác giả một ly cafe** để tiếp thêm động lực phát triển và cải thiện phần mềm.
+
+<div align="center">
+
+### ☕ Ủng hộ tác giả 1 ly cafe nhé!
+
+<img src="./STKTPBANK.jpg" alt="QR ủng hộ tác giả" width="420">
+
+**LE XUAN VIEN**
+
+**TPBank: 1000 0761 647**
+
+*Cảm ơn bạn đã ủng hộ! ❤️*
+
+</div>
+
+---
