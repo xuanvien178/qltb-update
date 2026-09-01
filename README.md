@@ -111,18 +111,6 @@ Không tải phần mềm từ các nguồn không chính thức.
 ## 📥 Cài đặt
 
 Tải phiên bản mới nhất tại:[https://github.com/xuanvien178/qltb-update](https://github.com/xuanvien178/qltb-update/releases/download/v3.3.9/QLTB_PRO_v3.3.9.exe)
-
-**GitHub Releases**
-
-Sau khi tải xuống, kiểm tra SHA-256 của file trước khi chạy.
-
-Ví dụ trên Windows PowerShell:
-
-```powershell
-Get-FileHash .\QLTB_PRO_v3.3.10.exe -Algorithm SHA256
-
----
-
 ## ☕ Ủng hộ tác giả
 
 Nếu QLTB PRO hữu ích với bạn, bạn có thể **ủng hộ tác giả một ly cafe** để tiếp thêm động lực phát triển và cải thiện phần mềm.
@@ -140,5 +128,12 @@ Nếu QLTB PRO hữu ích với bạn, bạn có thể **ủng hộ tác giả m
 *Cảm ơn bạn đã ủng hộ! ❤️*
 
 </div>
+**GitHub Releases**
 
----
+Sau khi tải xuống, kiểm tra SHA-256 của file trước khi chạy.
+
+Ví dụ trên Windows PowerShell:
+
+```powershell
+Get-FileHash .\QLTB_PRO_v3.3.10.exe -Algorithm SHA256
+
